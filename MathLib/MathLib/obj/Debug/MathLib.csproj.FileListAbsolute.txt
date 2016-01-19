@@ -1,0 +1,2 @@
+C:\Users\Jay Turner\Desktop\MathLib\MathLib\bin\Debug\MathLib.exe.config
+C:\Users\Jay Turner\Desktop\MathLib\MathLib\obj\Debug\MathLib.csprojResolveAssemblyReference.cache
